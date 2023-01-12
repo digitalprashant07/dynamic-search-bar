@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import Header from './Header';
 import React, {useState, useEffect} from 'react';
+import Footer from './Footer';
 
 function App() {
 
@@ -87,6 +88,7 @@ function App() {
           </div>
         </div>
       </div>
+      <Footer/>
     </div>
   );
 }
