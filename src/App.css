@@ -1,12 +1,33 @@
 .__searchBar {
-    color: #fff;
-    background-color: #0093E9;
-    background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+    color: #000000;
+    background-color: #A0AECD;
     padding-bottom: 100px;
 }
+.navbar{
+    background: #A0AECD!important;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
 
-
+.nav-item{
+    color: #000000;
+}
+.nav-link{
+    color: #000000 !important;
+}
 
 td{
-    color: #fff !important;
+    color: #000000 !important;
+}
+li.nav-item {
+    padding-left: 30px;
+    font-size: 20px;
+    font-weight: 400;
+}
+a.nav-link.active {
+    font-weight: 500;
+}
+a.navbar-brand {
+    font-size: 35px;
+    font-weight: 600;
+    color: black;
 }
