@@ -13,7 +13,7 @@ function App() {
 
   useEffect(() =>{
       const getUserData= async()=>{
-          const reqData= await fetch('https://dummyjson.com/users');
+          const reqData= await fetch('https://jsonplaceholder.typicode.com/users');
           const resData= await reqData.json();
          // console.log(resData);
           setUserData(resData);
