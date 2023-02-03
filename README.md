@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/107924807/212019390-354eed2d-3906-4586-8f7c-3c3a99b0248a.png)
+
+Visit Live website:- https://dynamic-search-bar.vercel.app/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
